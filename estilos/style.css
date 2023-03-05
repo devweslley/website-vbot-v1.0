@@ -354,7 +354,7 @@ html, body, header {
     }
     .conteudo-principal {
         padding: 5rem;
-        margin-top: 10rem;
+        margin-top: 15rem;
         height: 70vh;
         display: flex;
         flex-direction: column-reverse;
