@@ -231,7 +231,7 @@ html, body, header {
     display: flex;
     color: var(--color-white);
     width: 350px;
-    height: 650px;
+    height: 665px;
     border-radius: 30px;
     background-color: var(--color-white);
     justify-content: center;
