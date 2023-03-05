@@ -165,6 +165,12 @@ html, body, header {
     height: 800px;
 }
 
+.check {
+    margin-right: 5px; 
+    font-size: 1rem; 
+    color: #50ca7d;
+}
+
 /* CARD 1 */ 
 .primeiro-card {
     display: flex;
@@ -194,7 +200,7 @@ html, body, header {
     margin-top: 20px;
     border: 2px solid var(--color-secundary);
     border-radius: 100%;
-    padding: 20px;
+    padding: 15px;
     text-align: center;
 }
 
@@ -230,6 +236,11 @@ html, body, header {
     background-color: var(--color-white);
     justify-content: center;
     box-shadow: var(--sombra);
+}
+
+.segundo-plano p {
+    color: var(--color-primary); 
+    text-align: center;
 }
 
 .segundo-plano ul {
@@ -329,7 +340,7 @@ html, body, header {
         background-color: var(--color-nav-menu);
         text-align: center;
         flex-direction: column;
-        width: 90%;
+        width: 50%;
         transition: 0.3s;
         z-index: 1;
     }
